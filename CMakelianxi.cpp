@@ -26,7 +26,8 @@ void person::text3()
 
 void person::text4()
 {
-
+	cout << "asdasdsd" << endl;
+	cout << 123 << endl;
 }
 
 
