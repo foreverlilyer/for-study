@@ -21,7 +21,7 @@ void person::text2()
 
 void person::text3()
 {
-
+	cout << "小叶\n";
 }
 
 void person::text4()
