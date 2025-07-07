@@ -16,7 +16,7 @@ void person::text1()
 void person::text2()
 {
 	cout << "name: " << this->name << endl;
-	cout << "age: " << this->age +1<< endl;
+	cout << "age: " << this->age +3<< endl;
 }
 
 void person::text3()
