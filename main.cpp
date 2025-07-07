@@ -9,7 +9,7 @@ int main()
 {
 	cout << "Hello CMake." << endl;
 
-	person pingfan(18, "Æ½·²");
+	person pingfan(19, "Æ½·²");
 	pingfan.text1();
 
 
