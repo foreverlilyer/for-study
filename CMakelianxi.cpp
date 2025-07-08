@@ -11,6 +11,7 @@ void person::text1()
 {
 	cout << "name: " << this->name << endl;
 	cout << "age: " << this->age << endl;
+	cout << 01234 << endl;
 }
 
 void person::text2()
@@ -28,6 +29,8 @@ void person::text4()
 {
 	cout << "asdasdsd" << endl;
 	cout << 123 << endl;
+	cout << "foreveasdasdasdr" << endl;
+	cout << "ainthese" << endl;
 }
 
 
