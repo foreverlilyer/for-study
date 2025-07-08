@@ -31,6 +31,8 @@ void person::text4()
 	cout << 123 << endl;
 	cout << "foreveasdasdasdr" << endl;
 	cout << "ainthese" << endl;
+
+	cout << "薯条" << endl;
 }
 
 
