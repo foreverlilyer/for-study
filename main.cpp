@@ -13,5 +13,7 @@ int main()
 	pingfan.text1();
 
 
+	cout << "OK" << endl;
+
 	return 0;
 }
