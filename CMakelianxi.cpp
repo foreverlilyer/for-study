@@ -28,6 +28,8 @@ void person::text4()
 {
 	cout << "asdasdsd" << endl;
 	cout << 123 << endl;
+
+	cout << "薯条" << endl;
 }
 
 
