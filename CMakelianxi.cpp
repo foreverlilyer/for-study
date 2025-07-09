@@ -10,6 +10,7 @@ person::person(int a, string b)
 void person::text1()
 {
 	//我自己
+	cout << "组长：用于测试" << endl;
 }
 
 void person::text2()
@@ -20,11 +21,14 @@ void person::text2()
 void person::text3()
 {
 	//浔
+	cout << "浔的测试函数" << endl;
+	cout << "浔的分支测试函数" << endl;
 }
 
 void person::text4()
 {
 	//小叶
+	cout << "小叶的测试函数" << endl;
 }
 
 void person::text5()
@@ -35,17 +39,18 @@ void person::text5()
 void person::text6()
 {
 	//刘顺
+	cout << "我测" << endl;
 }
 
 void person::text7()
 {
 	//薯条
+	cout << "我是薯条，我是薯条,over,over" << endl;
 }
 
 void person::text8()
 {
 	//无量清风
-	cout << "无量清风测试" << endl;
 }
 
 void person::text9()
