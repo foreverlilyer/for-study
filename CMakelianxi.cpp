@@ -33,6 +33,7 @@ void person::text4()
 	cout << "ainthese" << endl;
 	cout << "huiyu" << endl;
 	cout << "薯条" << endl;
+	cout << "浔" << endl;
 }
 
 
