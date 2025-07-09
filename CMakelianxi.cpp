@@ -45,6 +45,7 @@ void person::text7()
 void person::text8()
 {
 	//无量清风
+	cout << "无量清风测试" << endl;
 }
 
 void person::text9()
