@@ -68,6 +68,7 @@ void person::text9()
 void person::text10()
 {
 	//zon
+	cout << '垃圾学校网太差了我服了';
 }
 
 person::~person()
