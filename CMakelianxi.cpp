@@ -20,6 +20,7 @@ void person::text2()
 void person::text3()
 {
 	//浔
+	cout << "浔的测试函数" << endl;
 }
 
 void person::text4()
