@@ -63,6 +63,7 @@ void person::text9()
 {
 	//知更鸟
 	cout << "密码的github退钱" << endl;
+	cout << "中国移动rnm" << endl;
 }
 
 void person::text10()
