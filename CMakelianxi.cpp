@@ -61,7 +61,7 @@ void person::text8()
 void person::text9()
 {
 	//知更鸟
-	//知更鸟
+	cout << "密码的github退钱" << endl;
 }
 
 void person::text10()
