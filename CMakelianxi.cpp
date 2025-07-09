@@ -28,17 +28,22 @@ void person::text3()
 void person::text4()
 {
 	//小叶
+	cout << "小叶的测试函数" << endl;
+	cout << "测试2" << endl;
 }
 
 void person::text5()
 {
 	//灰羽
+	cout << "欧内该，瓦达西" << endl;
+	cout << "灰羽测试函数" << endl;
 }
 
 void person::text6()
 {
 	//刘顺
 	cout << "我测" << endl;
+	cout << "我测测测" << endl;
 }
 
 void person::text7()
