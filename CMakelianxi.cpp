@@ -41,6 +41,7 @@ void person::text6()
 void person::text7()
 {
 	//薯条
+	cout << "我是薯条，我是薯条,over,over" << endl;
 }
 
 void person::text8()
