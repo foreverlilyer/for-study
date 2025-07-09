@@ -28,6 +28,7 @@ void person::text3()
 void person::text4()
 {
 	//小叶
+	cout << "小叶的测试函数" << endl;
 }
 
 void person::text5()
@@ -41,6 +42,7 @@ void person::text6()
 {
 	//刘顺
 	cout << "我测" << endl;
+	cout << "我测测测" << endl;
 }
 
 void person::text7()
