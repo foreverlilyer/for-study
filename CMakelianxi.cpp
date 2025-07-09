@@ -41,6 +41,7 @@ void person::text6()
 {
 	//刘顺
 	cout << "我测" << endl;
+	cout << "我测测测" << endl;
 }
 
 void person::text7()
@@ -52,6 +53,7 @@ void person::text7()
 void person::text8()
 {
 	//无量清风
+	cout << "无量清风测试" << endl;
 }
 
 void person::text9()
