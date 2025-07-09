@@ -40,6 +40,7 @@ void person::text6()
 {
 	//刘顺
 	cout << "我测" << endl;
+	cout << "我测测测" << endl;
 }
 
 void person::text7()
