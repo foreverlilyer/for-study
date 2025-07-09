@@ -29,6 +29,7 @@ void person::text4()
 {
 	//小叶
 	cout << "小叶的测试函数" << endl;
+	cout << "测试2" << endl;
 }
 
 void person::text5()
