@@ -50,6 +50,7 @@ void person::text8()
 void person::text9()
 {
 	//知更鸟
+	//知更鸟
 }
 
 void person::text10()
