@@ -9,33 +9,53 @@ person::person(int a, string b)
 
 void person::text1()
 {
-	cout << "name: " << this->name << endl;
-	cout << "age: " << this->age << endl;
-	cout << 01234 << endl;
+	//我自己
 }
 
 void person::text2()
 {
-	cout << "name: " << this->name << endl;
-	cout << "age: " << this->age +3<< endl;
+	//派大星
 }
 
 void person::text3()
 {
-	cout << "小叶\n";
+	//浔
 }
 
 void person::text4()
 {
-	cout << "asdasdsd" << endl;
-	cout << 123 << endl;
-	cout << "foreveasdasdasdr" << endl;
-	cout << "ainthese" << endl;
-
-	cout << "薯条" << endl;
+	//小叶
 }
 
+void person::text5()
+{
+	//灰羽
+}
 
+void person::text6()
+{
+	//刘顺
+}
+
+void person::text7()
+{
+	//薯条
+}
+
+void person::text8()
+{
+	//无量清风
+}
+
+void person::text9()
+{
+	//知更鸟
+}
+
+void person::text10()
+{
+	//zon
+}
 
 person::~person()
 {

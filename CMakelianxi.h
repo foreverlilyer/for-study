@@ -21,6 +21,18 @@ public:
 
 	void text4();
 
+	void text5();
+
+	void text6();
+
+	void text7();
+
+	void text8();
+
+	void text9();
+
+	void text10();
+
 
 private:
 	int age;
