@@ -35,6 +35,7 @@ void person::text4()
 void person::text5()
 {
 	//灰羽
+
 	cout << "欧内该，瓦达西" << endl;
 	cout << "灰羽测试函数" << endl;
 }
