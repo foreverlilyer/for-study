@@ -22,6 +22,7 @@ void person::text3()
 {
 	//浔
 	cout << "浔的测试函数" << endl;
+	cout << "浔的分支测试函数" << endl;
 }
 
 void person::text4()
