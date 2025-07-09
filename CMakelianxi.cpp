@@ -10,6 +10,7 @@ person::person(int a, string b)
 void person::text1()
 {
 	//我自己
+	cout << "组长：用于测试" << endl;
 }
 
 void person::text2()
